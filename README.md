@@ -1,6 +1,7 @@
 # Restricted-Boltzmann-Machine-Model-for-sequence-data-applications
 RBM is a classical model for construct the Deep Architecture.
-Multi-type RBM for sequence data modeling, specificial include continuous RBM and flexible partially surpervised training method(Bengio et al.,2007). This model is adapt to the applications such as financial, atmosphere, geography sequence et al. In the near future, Gaussian Bernoulli RBM and Bernoulli  RBM will be added.
+
+This package include Multi-type RBM for sequence data modeling, specificial include continuous RBM and flexible partially surpervised training method(Bengio et al.,2007). This model is adapt to the applications such as financial, atmosphere, geography sequence et al. In the near future, Gaussian Bernoulli RBM and Bernoulli  RBM will be added.
 
 The great contribute of this package is the application of Continuous RBM combine with flexible partially surpervised method (Ref. Bengion et al., 2007). The partially surpervised for regression problem is using BP algorithm (Bengio 2007), and the partially surpervised for classification problem is using CD method (typically apply at the end layer) (Hinton 2006). 
 
